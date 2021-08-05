@@ -1,0 +1,8 @@
+.selected {
+    border: 1px solid salmon;
+}
+
+.test {
+    font-weight: bold;
+    font-size: 40px;
+}
